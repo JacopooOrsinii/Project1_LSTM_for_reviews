@@ -1,4 +1,4 @@
-# Project2_LSTM_for_reviews
+# Project1_LSTM_for_reviews
 This repository contains an implementation of a Long Short-Term Memory (LSTM) neural network designed to classify text reviews as either positive or negative. The project leverages the LSTM architecture's ability to capture temporal dependencies in sequences, making it particularly effective for sentiment analysis tasks. Sentiment analysis is a crucial task in natural language processing (NLP), where the goal is to determine the sentiment behind a given piece of text. This project utilizes an LSTM model, which is well-suited for handling the sequential nature of text data, to classify reviews from a dataset into positive or negative categories.
 
 ## The goal
